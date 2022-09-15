@@ -1,0 +1,12 @@
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\bin\Debug\net6.0\PetType.Domain.deps.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\bin\Debug\net6.0\PetType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\bin\Debug\net6.0\PetType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.csproj.AssemblyReference.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.AssemblyInfoInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.AssemblyInfo.cs
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\refint\PetType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\PetType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Models\PetType.Domain\obj\Debug\net6.0\ref\PetType.Domain.dll

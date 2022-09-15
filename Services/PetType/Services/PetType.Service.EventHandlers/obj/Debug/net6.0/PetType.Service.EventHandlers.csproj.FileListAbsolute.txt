@@ -1,0 +1,17 @@
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Service.EventHandlers.deps.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Service.EventHandlers.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Service.EventHandlers.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Persistense.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Persistense.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\bin\Debug\net6.0\PetType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.csproj.AssemblyReference.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.AssemblyInfoInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.AssemblyInfo.cs
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.csproj.CoreCompileInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.csproj.CopyComplete
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\refint\PetType.Service.EventHandlers.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\PetType.Service.EventHandlers.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.EventHandlers\obj\Debug\net6.0\ref\PetType.Service.EventHandlers.dll

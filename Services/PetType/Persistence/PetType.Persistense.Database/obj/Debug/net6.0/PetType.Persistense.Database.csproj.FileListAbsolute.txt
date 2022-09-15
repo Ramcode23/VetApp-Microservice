@@ -1,0 +1,17 @@
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\bin\Debug\net6.0\PetType.Persistense.Database.deps.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\bin\Debug\net6.0\PetType.Persistense.Database.runtimeconfig.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\bin\Debug\net6.0\PetType.Persistense.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\bin\Debug\net6.0\PetType.Persistense.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\bin\Debug\net6.0\PetType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\bin\Debug\net6.0\PetType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.csproj.AssemblyReference.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.AssemblyInfoInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.AssemblyInfo.cs
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.csproj.CoreCompileInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.csproj.CopyComplete
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\refint\PetType.Persistense.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\PetType.Persistense.Database.genruntimeconfig.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Persistence\PetType.Persistense.Database\obj\Debug\net6.0\ref\PetType.Persistense.Database.dll
