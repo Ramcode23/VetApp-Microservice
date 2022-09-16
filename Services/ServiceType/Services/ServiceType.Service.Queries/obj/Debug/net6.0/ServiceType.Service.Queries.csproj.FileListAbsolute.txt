@@ -1,0 +1,17 @@
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Service.Queries.deps.json
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Service.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Service.Queries.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\Service.Common.Collection.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\Service.Common.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\Service.Common.Queries.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\Service.Common.Collection.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.csproj.AssemblyReference.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.AssemblyInfoInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.AssemblyInfo.cs
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.csproj.CoreCompileInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.csproj.CopyComplete
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\refint\ServiceType.Service.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ref\ServiceType.Service.Queries.dll

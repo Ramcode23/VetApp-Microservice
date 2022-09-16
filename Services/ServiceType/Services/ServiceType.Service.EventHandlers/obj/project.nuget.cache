@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRE9lYo6nCkaBQ4YcJAF2LyBfugrp2tKbguKlVvg0G3B6srKBxVjvAh96/LnAkGrSrwK5PN3Xjo0Ortp0lS61g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.EventHandlers\\ServiceType.Service.EventHandlers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramc2\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ramc2\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
