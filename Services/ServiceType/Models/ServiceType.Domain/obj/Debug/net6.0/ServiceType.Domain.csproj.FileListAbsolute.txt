@@ -1,0 +1,12 @@
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\bin\Debug\net6.0\ServiceType.Domain.deps.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\bin\Debug\net6.0\ServiceType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\bin\Debug\net6.0\ServiceType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.csproj.AssemblyReference.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.AssemblyInfoInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.AssemblyInfo.cs
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\refint\ServiceType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ServiceType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Models\ServiceType.Domain\obj\Debug\net6.0\ref\ServiceType.Domain.dll

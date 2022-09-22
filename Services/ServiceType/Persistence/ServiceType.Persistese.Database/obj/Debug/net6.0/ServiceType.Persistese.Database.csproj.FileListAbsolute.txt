@@ -1,0 +1,17 @@
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.csproj.AssemblyReference.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.AssemblyInfoInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.AssemblyInfo.cs
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.csproj.CoreCompileInputs.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\bin\Debug\net6.0\ServiceType.Persistese.Database.deps.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\bin\Debug\net6.0\ServiceType.Persistese.Database.runtimeconfig.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\bin\Debug\net6.0\ServiceType.Persistese.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\bin\Debug\net6.0\ServiceType.Persistese.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\bin\Debug\net6.0\ServiceType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\bin\Debug\net6.0\ServiceType.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.csproj.CopyComplete
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\refint\ServiceType.Persistese.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ServiceType.Persistese.Database.genruntimeconfig.cache
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Persistence\ServiceType.Persistese.Database\obj\Debug\net6.0\ref\ServiceType.Persistese.Database.dll

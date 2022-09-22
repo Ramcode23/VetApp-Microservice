@@ -14,6 +14,8 @@
     <ProjectReference Include="..\..\PetType\Services\PetType.Service.Queries\PetType.Service.Queries.csproj" />
     <ProjectReference Include="..\..\PetType\Models\PetType.Domain\PetType.Domain.csproj" />
     <ProjectReference Include="..\Service.Common.Collection\Service.Common.Collection.csproj" />
+    <ProjectReference Include="..\..\ServiceType\Services\ServiceType.Service.Queries\ServiceType.Service.Queries.csproj" />
+    <ProjectReference Include="..\..\ServiceType\Models\ServiceType.Domain\ServiceType.Domain.csproj" />
   </ItemGroup>
 
 </Project>

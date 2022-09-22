@@ -18,14 +18,14 @@ public class ApplicationDbContext : DbContext
         base.OnModelCreating(builder);
 
         // Database schema
-        builder.HasDefaultSchema("ServiceType");
+        builder.HasDefaultSchema("ServiceCategories");
 
         // Model Contraints
         ModelConfig(builder);
     }
 
 
-    public DbSet<ServiceCategory> PetCategories { get; set; }
+    public DbSet<ServiceCategory> ServiceCategories { get; set; }
 
     private void ModelConfig(ModelBuilder modelBuilder)
     {

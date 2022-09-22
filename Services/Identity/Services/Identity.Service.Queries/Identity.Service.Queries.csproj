@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\Service.Common.Paging\Service.Common.Paging.csproj" />
+    <ProjectReference Include="..\..\..\Common\Service.Common.Mapping\Service.Common.Mapping.csproj" />
+    <ProjectReference Include="..\..\Persistence\Identity.Persistence.Database\Identity.Persistence.Database.csproj" />
+    <ProjectReference Include="..\..\..\Common\Service.Common.Collection\Service.Common.Collection.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

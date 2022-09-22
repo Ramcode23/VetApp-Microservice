@@ -15,3 +15,9 @@ c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services
 c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\refint\ServiceType.Service.Queries.dll
 c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ServiceType.Service.Queries.pdb
 c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\obj\Debug\net6.0\ref\ServiceType.Service.Queries.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\Service.Common.Paging.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Persistese.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Persistese.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\Service.Common.Paging.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\ServiceType\Services\ServiceType.Service.Queries\bin\Debug\net6.0\ServiceType.Domain.pdb

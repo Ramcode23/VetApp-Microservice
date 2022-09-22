@@ -1,0 +1,12 @@
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\bin\Debug\net6.0\Identity.Domain.deps.json
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\bin\Debug\net6.0\Identity.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\bin\Debug\net6.0\Identity.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.AssemblyReference.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfoInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfo.cs
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.CoreCompileInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\refint\Identity.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\Identity.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Models\Identity.Domain\obj\Debug\net6.0\ref\Identity.Domain.dll

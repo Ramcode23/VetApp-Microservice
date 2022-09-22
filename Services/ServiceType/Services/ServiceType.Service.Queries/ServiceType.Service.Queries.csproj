@@ -2,6 +2,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Common\Service.Common.Queries\Service.Common.Queries.csproj" />
+    <ProjectReference Include="..\..\Persistence\ServiceType.Persistese.Database\ServiceType.Persistese.Database.csproj" />
+    <ProjectReference Include="..\..\..\Common\Service.Common.Paging\Service.Common.Paging.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
   </ItemGroup>
 
   <PropertyGroup>

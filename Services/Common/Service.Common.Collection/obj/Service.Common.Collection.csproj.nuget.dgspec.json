@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {}
+    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "projectName": "Service.Common.Collection",
-        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\obj\\",
+        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

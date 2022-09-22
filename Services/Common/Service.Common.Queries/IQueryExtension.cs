@@ -8,7 +8,7 @@ namespace Service.Common.Queries
 {
     public interface IQueryExtension<T>
     {
-          Task<DataCollection<T>> GetAllAsync(int page, int take, IEnumerable<int> products = null);
+          Task<DataCollection<T>> GetAllAsync(int page, int take, IEnumerable<int> entities = null);
         Task<T> GetAsync(int id);
     }
 }
