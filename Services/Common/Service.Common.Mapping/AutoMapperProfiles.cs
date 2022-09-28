@@ -1,7 +1,10 @@
 ﻿using AutoMapper;
 using PetType.Domain;
 using PetType.Service.Queries.DTOs;
+
 using Service.Common.Collection;
+using ServiceType.Domain;
+using ServiceType.Service.Queries.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,6 +22,12 @@ namespace Service.Common.Mapping
             CreateMap<DataCollection<PetCategory>, DataCollection<PetCategoryDTo>>();
             CreateMap<PetCategory, PetCategoryDTo>().ReverseMap();
             CreateMap<PetCategory, PetCategoryDTo>();
+          
+          
+           CreateMap<DataCollection<ServiceCategory>,DataCollection<ServiceTypeDTo>>().ReverseMap();
+            CreateMap<DataCollection<ServiceCategory>, DataCollection<ServiceTypeDTo>>();
+            CreateMap<ServiceCategory, ServiceTypeDTo>().ReverseMap();
+            CreateMap<ServiceCategory, ServiceTypeDTo>();
        
 
         }

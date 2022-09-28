@@ -1,0 +1,17 @@
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\bin\Debug\net6.0\Identity.Persistence.Database.deps.json
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\bin\Debug\net6.0\Identity.Persistence.Database.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\bin\Debug\net6.0\Identity.Persistence.Database.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\bin\Debug\net6.0\Identity.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\bin\Debug\net6.0\Identity.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.csproj.AssemblyReference.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.AssemblyInfoInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.AssemblyInfo.cs
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.csproj.CoreCompileInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.csproj.CopyComplete
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\refint\Identity.Persistence.Database.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\ref\Identity.Persistence.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\bin\Debug\net6.0\Identity.Persistence.Database.runtimeconfig.json
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Persistence\Identity.Persistence.Database\obj\Debug\net6.0\Identity.Persistence.Database.genruntimeconfig.cache

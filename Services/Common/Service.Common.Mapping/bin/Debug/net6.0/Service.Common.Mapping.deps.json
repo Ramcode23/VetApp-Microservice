@@ -11,7 +11,9 @@
           "AutoMapper": "11.0.1",
           "PetType.Domain": "1.0.0",
           "PetType.Service.Queries": "1.0.0",
-          "Service.Common.Collection": "1.0.0"
+          "Service.Common.Collection": "1.0.0",
+          "ServiceType.Domain": "1.0.0",
+          "ServiceType.Service.Queries": "1.0.0"
         },
         "runtime": {
           "Service.Common.Mapping.dll": {}
@@ -524,6 +526,40 @@
         "runtime": {
           "Service.Common.Paging.dll": {}
         }
+      },
+      "Service.Common.Queries/1.0.0": {
+        "dependencies": {
+          "Service.Common.Collection": "1.0.0"
+        },
+        "runtime": {
+          "Service.Common.Queries.dll": {}
+        }
+      },
+      "ServiceType.Domain/1.0.0": {
+        "runtime": {
+          "ServiceType.Domain.dll": {}
+        }
+      },
+      "ServiceType.Persistese.Database/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
+          "ServiceType.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ServiceType.Persistese.Database.dll": {}
+        }
+      },
+      "ServiceType.Service.Queries/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0",
+          "ServiceType.Persistese.Database": "1.0.0"
+        },
+        "runtime": {
+          "ServiceType.Service.Queries.dll": {}
+        }
       }
     }
   },
@@ -848,6 +884,26 @@
       "sha512": ""
     },
     "Service.Common.Paging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service.Common.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceType.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceType.Persistese.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceType.Service.Queries/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

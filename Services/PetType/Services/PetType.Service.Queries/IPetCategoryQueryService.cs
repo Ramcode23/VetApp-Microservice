@@ -6,7 +6,7 @@ namespace PetType.Service.Queries
 {
     public interface IPetCategoryQueryService
     {
-        Task<DataCollection<PetCategoryDTo>> GetAllAsync(int page, int take, IEnumerable<int> products = null);
+        Task<DataCollection<PetCategoryDTo>> GetAllAsync(int page, int take, IEnumerable<int> petcateCategories = null);
         Task<PetCategoryDTo> GetAsync(int id);
     }
 }

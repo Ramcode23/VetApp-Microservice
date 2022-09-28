@@ -29,6 +29,8 @@
     <ProjectReference Include="..\..\..\Common\Service.Common.Mapping\Service.Common.Mapping.csproj" />
     <ProjectReference Include="..\..\Services\PetType.Service.Queries\PetType.Service.Queries.csproj" />
     <ProjectReference Include="..\..\Services\PetType.Service.EventHandlers\PetType.Service.EventHandlers.csproj" />
+    <ProjectReference Include="..\..\..\Common\Service.Common.Collection\Service.Common.Collection.csproj" />
+
   </ItemGroup>
 
 </Project>
