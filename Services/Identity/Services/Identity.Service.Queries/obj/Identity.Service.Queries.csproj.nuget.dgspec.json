@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {}
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "projectName": "Service.Common.Collection",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "projectName": "Service.Common.Mapping",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,20 +92,20 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
         "projectName": "Service.Common.Paging",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,8 +173,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               }
             }
           }
@@ -213,14 +213,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj",
         "projectName": "Service.Common.Queries",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -242,8 +242,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               }
             }
           }
@@ -276,14 +276,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj",
         "projectName": "Identity.Domain",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -341,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
         "projectName": "Identity.Persistence.Database",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -370,8 +370,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj"
               }
             }
           }
@@ -416,14 +416,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
         "projectName": "Identity.Service.Queries",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -445,17 +445,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
               }
             }
           }
@@ -494,14 +494,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj",
         "projectName": "PetType.Domain",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -553,14 +553,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj",
         "projectName": "PetType.Persistense.Database",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -582,8 +582,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"
               }
             }
           }
@@ -642,14 +642,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj",
         "projectName": "PetType.Service.Queries",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -671,17 +671,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj"
               }
             }
           }
@@ -724,14 +724,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj",
         "projectName": "ServiceType.Domain",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -783,14 +783,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj",
         "projectName": "ServiceType.Persistese.Database",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -812,8 +812,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj"
               }
             }
           }
@@ -862,14 +862,14 @@
         }
       }
     },
-    "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj": {
+    "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj",
+        "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj",
         "projectName": "ServiceType.Service.Queries",
-        "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj",
+        "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\ServiceType.Service.Queries.csproj",
         "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\obj\\",
+        "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Services\\ServiceType.Service.Queries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -891,14 +891,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj"
               },
-              "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj": {
-                "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj"
+              "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj": {
+                "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Persistence\\ServiceType.Persistese.Database\\ServiceType.Persistese.Database.csproj"
               }
             }
           }

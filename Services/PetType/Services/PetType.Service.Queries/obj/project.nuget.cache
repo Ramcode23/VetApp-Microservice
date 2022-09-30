@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aZnZg1SLyz+r8rQNJwkz9h8eBUhBwiaOqEqR5x8b6J+qyKhC6L+Lb1IFKaV+KchT8alXiIPPDWjKL6W3UkxHJA==",
+  "dgSpecHash": "6q9DpPoPxT/oz8bW9sKF33poWuDbtwYVhzFcyldwHzpzncMxUDUXh8J9MeVcFwFXNYHsiSMHNScbCs5+ICzo2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj",
   "expectedPackageFiles": [

@@ -13,7 +13,8 @@
           "PetType.Domain": "1.0.0",
           "PetType.Persistense.Database": "1.0.0",
           "Service.Common.Collection": "1.0.0",
-          "Service.Common.Paging": "1.0.0"
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
         },
         "runtime": {
           "PetType.Service.Queries.dll": {}
@@ -513,6 +514,14 @@
         "runtime": {
           "Service.Common.Paging.dll": {}
         }
+      },
+      "Service.Common.Queries/1.0.0": {
+        "dependencies": {
+          "Service.Common.Collection": "1.0.0"
+        },
+        "runtime": {
+          "Service.Common.Queries.dll": {}
+        }
       }
     }
   },
@@ -832,6 +841,11 @@
       "sha512": ""
     },
     "Service.Common.Paging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service.Common.Queries/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

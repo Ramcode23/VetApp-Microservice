@@ -623,6 +623,99 @@
           }
         }
       },
+      "Agenda.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Service.Common.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Agenda.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Agenda.Domain.dll": {}
+        }
+      },
+      "Agenda.Persistense.Database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Agenda.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
+          "Service.Common.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Agenda.Persistense.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Agenda.Persistense.Database.dll": {}
+        }
+      },
+      "Agenda.Service.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Agenda.Domain": "1.0.0",
+          "Agenda.Persistense.Database": "1.0.0",
+          "AutoMapper": "11.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Agenda.Service.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Agenda.Service.Queries.dll": {}
+        }
+      },
+      "Pet.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Service.Common.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pet.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pet.Domain.dll": {}
+        }
+      },
+      "Pet.Persistence.Database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
+          "Pet.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pet.Persistence.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pet.Persistence.Database.dll": {}
+        }
+      },
+      "Pet.Service.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Pet.Persistence.Database": "1.0.0",
+          "Service.Common.Collection": "1.0.0",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Pet.Service.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pet.Service.Queries.dll": {}
+        }
+      },
       "PetType.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -658,7 +751,8 @@
           "PetType.Domain": "1.0.0",
           "PetType.Persistense.Database": "1.0.0",
           "Service.Common.Collection": "1.0.0",
-          "Service.Common.Paging": "1.0.0"
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PetType.Service.Queries.dll": {}
@@ -675,6 +769,16 @@
         },
         "runtime": {
           "bin/placeholder/Service.Common.Collection.dll": {}
+        }
+      },
+      "Service.Common.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Service.Common.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Model.dll": {}
         }
       },
       "Service.Common.Paging/1.0.0": {
@@ -1940,6 +2044,36 @@
         "version.txt"
       ]
     },
+    "Agenda.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Agenda/Models/Agenda.Domain/Agenda.Domain.csproj",
+      "msbuildProject": "../../Agenda/Models/Agenda.Domain/Agenda.Domain.csproj"
+    },
+    "Agenda.Persistense.Database/1.0.0": {
+      "type": "project",
+      "path": "../../Agenda/Persistence/Agenda.Persistense.Database/Agenda.Persistense.Database.csproj",
+      "msbuildProject": "../../Agenda/Persistence/Agenda.Persistense.Database/Agenda.Persistense.Database.csproj"
+    },
+    "Agenda.Service.Queries/1.0.0": {
+      "type": "project",
+      "path": "../../Agenda/Services/Agenda.Service.Queries/Agenda.Service.Queries.csproj",
+      "msbuildProject": "../../Agenda/Services/Agenda.Service.Queries/Agenda.Service.Queries.csproj"
+    },
+    "Pet.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Pet/Models/Pet.Domain/Pet.Domain.csproj",
+      "msbuildProject": "../../Pet/Models/Pet.Domain/Pet.Domain.csproj"
+    },
+    "Pet.Persistence.Database/1.0.0": {
+      "type": "project",
+      "path": "../../Pet/Persistence/Pet.Persistence.Database/Pet.Persistence.Database.csproj",
+      "msbuildProject": "../../Pet/Persistence/Pet.Persistence.Database/Pet.Persistence.Database.csproj"
+    },
+    "Pet.Service.Queries/1.0.0": {
+      "type": "project",
+      "path": "../../Pet/Services/Pet.Service.Queries/Pet.Service.Queries.csproj",
+      "msbuildProject": "../../Pet/Services/Pet.Service.Queries/Pet.Service.Queries.csproj"
+    },
     "PetType.Domain/1.0.0": {
       "type": "project",
       "path": "../../PetType/Models/PetType.Domain/PetType.Domain.csproj",
@@ -1959,6 +2093,11 @@
       "type": "project",
       "path": "../Service.Common.Collection/Service.Common.Collection.csproj",
       "msbuildProject": "../Service.Common.Collection/Service.Common.Collection.csproj"
+    },
+    "Service.Common.Model/1.0.0": {
+      "type": "project",
+      "path": "../Service.Common.Model/Service.Common.Model.csproj",
+      "msbuildProject": "../Service.Common.Model/Service.Common.Model.csproj"
     },
     "Service.Common.Paging/1.0.0": {
       "type": "project",
@@ -1988,7 +2127,11 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Agenda.Domain >= 1.0.0",
+      "Agenda.Service.Queries >= 1.0.0",
       "AutoMapper >= 11.0.1",
+      "Pet.Domain >= 1.0.0",
+      "Pet.Service.Queries >= 1.0.0",
       "PetType.Domain >= 1.0.0",
       "PetType.Service.Queries >= 1.0.0",
       "Service.Common.Collection >= 1.0.0",
@@ -2029,6 +2172,12 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Models\\Agenda.Domain\\Agenda.Domain.csproj": {
+              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Models\\Agenda.Domain\\Agenda.Domain.csproj"
+            },
+            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj": {
+              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj"
+            },
             "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
               "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
             },
@@ -2037,6 +2186,12 @@
             },
             "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
               "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj"
+            },
+            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Pet\\Models\\Pet.Domain\\Pet.Domain.csproj": {
+              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Pet\\Models\\Pet.Domain\\Pet.Domain.csproj"
+            },
+            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Pet\\Services\\Pet.Service.Queries\\Pet.Service.Queries.csproj": {
+              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Pet\\Services\\Pet.Service.Queries\\Pet.Service.Queries.csproj"
             },
             "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj": {
               "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\ServiceType\\Models\\ServiceType.Domain\\ServiceType.Domain.csproj"

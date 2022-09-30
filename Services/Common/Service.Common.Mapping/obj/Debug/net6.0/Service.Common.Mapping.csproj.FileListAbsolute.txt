@@ -29,3 +29,17 @@ C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\ServiceType.Domain.pdb
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Service.Common.Queries.pdb
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\ServiceType.Persistese.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Pet.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Pet.Persistence.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Pet.Service.Queries.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Service.Common.Model.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Pet.Service.Queries.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Pet.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Pet.Persistence.Database.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Service.Common.Model.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Agenda.Domain.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Agenda.Persistense.Database.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Agenda.Service.Queries.dll
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Agenda.Service.Queries.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Agenda.Domain.pdb
+C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Mapping\bin\Debug\net6.0\Agenda.Persistense.Database.pdb

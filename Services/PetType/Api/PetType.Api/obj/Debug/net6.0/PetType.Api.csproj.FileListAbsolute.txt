@@ -119,3 +119,11 @@ C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\obj\Debug\net6.0\ref\PetType.Api.dll
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\PetType.Service.EventHandlers.dll
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\PetType.Service.EventHandlers.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\Service.Common.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\ServiceType.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\ServiceType.Persistese.Database.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\ServiceType.Service.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\Service.Common.Queries.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\ServiceType.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\ServiceType.Persistese.Database.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Api\PetType.Api\bin\Debug\net6.0\ServiceType.Service.Queries.pdb

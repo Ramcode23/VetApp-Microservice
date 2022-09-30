@@ -672,6 +672,19 @@
         "runtime": {
           "bin/placeholder/Service.Common.Paging.dll": {}
         }
+      },
+      "Service.Common.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Service.Common.Collection": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.Common.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Queries.dll": {}
+        }
       }
     }
   },
@@ -1887,6 +1900,11 @@
       "type": "project",
       "path": "../../../Common/Service.Common.Paging/Service.Common.Paging.csproj",
       "msbuildProject": "../../../Common/Service.Common.Paging/Service.Common.Paging.csproj"
+    },
+    "Service.Common.Queries/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/Service.Common.Queries/Service.Common.Queries.csproj",
+      "msbuildProject": "../../../Common/Service.Common.Queries/Service.Common.Queries.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1896,7 +1914,8 @@
       "PetType.Domain >= 1.0.0",
       "PetType.Persistense.Database >= 1.0.0",
       "Service.Common.Collection >= 1.0.0",
-      "Service.Common.Paging >= 1.0.0"
+      "Service.Common.Paging >= 1.0.0",
+      "Service.Common.Queries >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1937,6 +1956,9 @@
             },
             "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
               "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
+            },
+            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj": {
+              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj"
             },
             "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj": {
               "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Models\\PetType.Domain\\PetType.Domain.csproj"

@@ -698,6 +698,18 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
         }
       },
+      "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {}
+        }
+      },
       "Microsoft.Extensions.DependencyInjection/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2004,11 +2016,13 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Identity.Domain": "1.0.0",
+          "Identity.Persistence.Database": "1.0.0",
           "MediatR": "10.0.1",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.9",
           "Microsoft.EntityFrameworkCore": "6.0.9",
           "Microsoft.Extensions.Configuration": "6.0.1",
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Microsoft.IdentityModel.Tokens": "6.23.1",
           "System.IdentityModel.Tokens.Jwt": "6.23.1"
         },
@@ -3058,6 +3072,25 @@
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
         "microsoft.extensions.configuration.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+      "sha512": "b3ErKzND8LIC7o08QAVlKfaEIYEvLJbtmVbFZVBRXeu9YkKfSSzLZfR1SUfQPBIy9mKLhEtJgGYImkcMNaKE0A==",
+      "type": "package",
+      "path": "microsoft.extensions.configuration.binder/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/net461/Microsoft.Extensions.Configuration.Binder.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.xml",
+        "microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+        "microsoft.extensions.configuration.binder.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -6437,11 +6470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\Identity.Api.csproj",
+      "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\Identity.Api.csproj",
       "projectName": "Identity.Api",
-      "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\Identity.Api.csproj",
+      "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\Identity.Api.csproj",
       "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\obj\\",
+      "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6463,20 +6496,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Models\\Identity.Domain\\Identity.Domain.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.EventHandlers\\Identity.Service.EventHandlers.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj"
             }
           }
         }

@@ -13,3 +13,5 @@ c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services
 c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Services\Identity.Service.EventHandlers\obj\Debug\net6.0\refint\Identity.Service.EventHandlers.dll
 c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Services\Identity.Service.EventHandlers\obj\Debug\net6.0\Identity.Service.EventHandlers.pdb
 c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Services\Identity.Service.EventHandlers\obj\Debug\net6.0\ref\Identity.Service.EventHandlers.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Services\Identity.Service.EventHandlers\bin\Debug\net6.0\Identity.Persistence.Database.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Identity\Services\Identity.Service.EventHandlers\bin\Debug\net6.0\Identity.Persistence.Database.pdb
