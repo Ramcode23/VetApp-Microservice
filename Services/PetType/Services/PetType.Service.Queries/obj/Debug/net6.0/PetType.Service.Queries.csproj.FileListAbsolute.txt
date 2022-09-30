@@ -19,3 +19,5 @@ C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.Queries\obj\Debug\net6.0\refint\PetType.Service.Queries.dll
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.Queries\obj\Debug\net6.0\PetType.Service.Queries.pdb
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.Queries\obj\Debug\net6.0\ref\PetType.Service.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.Queries\bin\Debug\net6.0\Service.Common.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\PetType\Services\PetType.Service.Queries\bin\Debug\net6.0\Service.Common.Queries.pdb

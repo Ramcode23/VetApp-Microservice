@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VMxxVN+i7FD0DyBu7EF/xl3V7TurLIbBWsUam5iqQVE34pCc8xDVrHJoQ+MGxya/VmVVftpFQAQZxugq6/Yfmg==",
+  "dgSpecHash": "AEQGIXKuSY3XlLQSbYXiERMYperCCZNBMoSaVFVqCeDPoSPNaZ7SrtncIWr+/tQ3A/CwQpoqkO1CvDEj263cxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.EventHandlers\\PetType.Service.EventHandlers.csproj",
+  "projectFilePath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.EventHandlers\\PetType.Service.EventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramc2\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ramc2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

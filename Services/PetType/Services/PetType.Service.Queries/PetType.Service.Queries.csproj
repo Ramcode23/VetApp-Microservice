@@ -5,6 +5,7 @@
     <ProjectReference Include="..\..\..\Common\Service.Common.Collection\Service.Common.Collection.csproj" />
     <ProjectReference Include="..\..\Persistence\PetType.Persistense.Database\PetType.Persistense.Database.csproj" />
     <ProjectReference Include="..\..\..\Common\Service.Common.Paging\Service.Common.Paging.csproj" />
+    <ProjectReference Include="..\..\..\Common\Service.Common.Queries\Service.Common.Queries.csproj" />
   </ItemGroup>
 
   <ItemGroup>

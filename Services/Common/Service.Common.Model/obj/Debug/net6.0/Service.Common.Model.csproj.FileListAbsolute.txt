@@ -1,0 +1,12 @@
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\bin\Debug\net6.0\Service.Common.Model.deps.json
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\bin\Debug\net6.0\Service.Common.Model.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\bin\Debug\net6.0\Service.Common.Model.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.csproj.AssemblyReference.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.AssemblyInfoInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.AssemblyInfo.cs
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.csproj.CoreCompileInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\refint\Service.Common.Model.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\Service.Common.Model.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Common\Service.Common.Model\obj\Debug\net6.0\ref\Service.Common.Model.dll

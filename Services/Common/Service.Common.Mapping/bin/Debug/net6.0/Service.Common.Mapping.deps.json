@@ -8,7 +8,11 @@
     ".NETCoreApp,Version=v6.0": {
       "Service.Common.Mapping/1.0.0": {
         "dependencies": {
+          "Agenda.Domain": "1.0.0",
+          "Agenda.Service.Queries": "1.0.0",
           "AutoMapper": "11.0.1",
+          "Pet.Domain": "1.0.0",
+          "Pet.Service.Queries": "1.0.0",
           "PetType.Domain": "1.0.0",
           "PetType.Service.Queries": "1.0.0",
           "Service.Common.Collection": "1.0.0",
@@ -484,6 +488,69 @@
           }
         }
       },
+      "Agenda.Domain/1.0.0": {
+        "dependencies": {
+          "Service.Common.Model": "1.0.0"
+        },
+        "runtime": {
+          "Agenda.Domain.dll": {}
+        }
+      },
+      "Agenda.Persistense.Database/1.0.0": {
+        "dependencies": {
+          "Agenda.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
+          "Service.Common.Model": "1.0.0"
+        },
+        "runtime": {
+          "Agenda.Persistense.Database.dll": {}
+        }
+      },
+      "Agenda.Service.Queries/1.0.0": {
+        "dependencies": {
+          "Agenda.Domain": "1.0.0",
+          "Agenda.Persistense.Database": "1.0.0",
+          "AutoMapper": "11.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
+        },
+        "runtime": {
+          "Agenda.Service.Queries.dll": {}
+        }
+      },
+      "Pet.Domain/1.0.0": {
+        "dependencies": {
+          "Service.Common.Model": "1.0.0"
+        },
+        "runtime": {
+          "Pet.Domain.dll": {}
+        }
+      },
+      "Pet.Persistence.Database/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
+          "Pet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Pet.Persistence.Database.dll": {}
+        }
+      },
+      "Pet.Service.Queries/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Pet.Persistence.Database": "1.0.0",
+          "Service.Common.Collection": "1.0.0",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
+        },
+        "runtime": {
+          "Pet.Service.Queries.dll": {}
+        }
+      },
       "PetType.Domain/1.0.0": {
         "runtime": {
           "PetType.Domain.dll": {}
@@ -507,7 +574,8 @@
           "PetType.Domain": "1.0.0",
           "PetType.Persistense.Database": "1.0.0",
           "Service.Common.Collection": "1.0.0",
-          "Service.Common.Paging": "1.0.0"
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
         },
         "runtime": {
           "PetType.Service.Queries.dll": {}
@@ -516,6 +584,11 @@
       "Service.Common.Collection/1.0.0": {
         "runtime": {
           "Service.Common.Collection.dll": {}
+        }
+      },
+      "Service.Common.Model/1.0.0": {
+        "runtime": {
+          "Service.Common.Model.dll": {}
         }
       },
       "Service.Common.Paging/1.0.0": {
@@ -863,6 +936,36 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
+    "Agenda.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agenda.Persistense.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Agenda.Service.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pet.Persistence.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pet.Service.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "PetType.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -879,6 +982,11 @@
       "sha512": ""
     },
     "Service.Common.Collection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service.Common.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

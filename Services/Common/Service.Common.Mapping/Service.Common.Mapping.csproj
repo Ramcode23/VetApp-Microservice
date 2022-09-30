@@ -16,6 +16,10 @@
     <ProjectReference Include="..\Service.Common.Collection\Service.Common.Collection.csproj" />
     <ProjectReference Include="..\..\ServiceType\Services\ServiceType.Service.Queries\ServiceType.Service.Queries.csproj" />
     <ProjectReference Include="..\..\ServiceType\Models\ServiceType.Domain\ServiceType.Domain.csproj" />
+    <ProjectReference Include="..\..\Pet\Services\Pet.Service.Queries\Pet.Service.Queries.csproj" />
+    <ProjectReference Include="..\..\Pet\Models\Pet.Domain\Pet.Domain.csproj" />
+    <ProjectReference Include="..\..\Agenda\Services\Agenda.Service.Queries\Agenda.Service.Queries.csproj" />
+    <ProjectReference Include="..\..\Agenda\Models\Agenda.Domain\Agenda.Domain.csproj" />
   </ItemGroup>
 
 </Project>

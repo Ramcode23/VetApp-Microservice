@@ -2215,11 +2215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+      "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
       "projectName": "Identity.Service.Queries",
-      "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
+      "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\Identity.Service.Queries.csproj",
       "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\obj\\",
+      "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Services\\Identity.Service.Queries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2241,17 +2241,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Paging\\Service.Common.Paging.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Persistence\\Identity.Persistence.Database\\Identity.Persistence.Database.csproj"
             }
           }
         }

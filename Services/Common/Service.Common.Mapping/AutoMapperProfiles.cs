@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿using Agenda.Service.Queries.DTOs;
+using AutoMapper;
+using Pet.Service.Queries.DTOs;
 using PetType.Domain;
 using PetType.Service.Queries.DTOs;
 
@@ -28,6 +30,17 @@ namespace Service.Common.Mapping
             CreateMap<DataCollection<ServiceCategory>, DataCollection<ServiceTypeDTo>>();
             CreateMap<ServiceCategory, ServiceTypeDTo>().ReverseMap();
             CreateMap<ServiceCategory, ServiceTypeDTo>();
+
+
+           CreateMap<DataCollection<Pet.Domain.Pet>,DataCollection<PetDTo>>().ReverseMap();
+            CreateMap<DataCollection<Pet.Domain.Pet>, DataCollection<PetDTo>>();
+            CreateMap<Pet.Domain.Pet, PetDTo>().ReverseMap();
+            CreateMap<Pet.Domain.Pet, PetDTo>();
+       
+           CreateMap<DataCollection<Agenda.Domain.Agenda>,DataCollection<AgendaDTO>>().ReverseMap();
+            CreateMap<DataCollection<Agenda.Domain.Agenda>, DataCollection<AgendaDTO>>();
+            CreateMap<Agenda.Domain.Agenda, AgendaDTO>().ReverseMap();
+            CreateMap<Agenda.Domain.Agenda, AgendaDTO>();
        
 
         }

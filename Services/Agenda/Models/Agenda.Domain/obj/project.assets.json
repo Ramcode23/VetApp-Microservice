@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Service.Common.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Service.Common.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Service.Common.Model/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/Service.Common.Model/Service.Common.Model.csproj",
+      "msbuildProject": "../../../Common/Service.Common.Model/Service.Common.Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Service.Common.Model >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ramc2\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Model\\Service.Common.Model.csproj": {
+              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Model\\Service.Common.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1668,7 +1668,8 @@
           "PetType.Domain": "1.0.0",
           "PetType.Persistense.Database": "1.0.0",
           "Service.Common.Collection": "1.0.0",
-          "Service.Common.Paging": "1.0.0"
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PetType.Service.Queries.dll": {}
@@ -1694,7 +1695,9 @@
           "AutoMapper": "11.0.1",
           "PetType.Domain": "1.0.0",
           "PetType.Service.Queries": "1.0.0",
-          "Service.Common.Collection": "1.0.0"
+          "Service.Common.Collection": "1.0.0",
+          "ServiceType.Domain": "1.0.0",
+          "ServiceType.Service.Queries": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Service.Common.Mapping.dll": {}
@@ -1715,6 +1718,60 @@
         },
         "runtime": {
           "bin/placeholder/Service.Common.Paging.dll": {}
+        }
+      },
+      "Service.Common.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Service.Common.Collection": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Service.Common.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Service.Common.Queries.dll": {}
+        }
+      },
+      "ServiceType.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ServiceType.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceType.Domain.dll": {}
+        }
+      },
+      "ServiceType.Persistese.Database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
+          "ServiceType.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceType.Persistese.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceType.Persistese.Database.dll": {}
+        }
+      },
+      "ServiceType.Service.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0",
+          "ServiceType.Persistese.Database": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceType.Service.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceType.Service.Queries.dll": {}
         }
       }
     }
@@ -5503,6 +5560,26 @@
       "type": "project",
       "path": "../../../Common/Service.Common.Paging/Service.Common.Paging.csproj",
       "msbuildProject": "../../../Common/Service.Common.Paging/Service.Common.Paging.csproj"
+    },
+    "Service.Common.Queries/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/Service.Common.Queries/Service.Common.Queries.csproj",
+      "msbuildProject": "../../../Common/Service.Common.Queries/Service.Common.Queries.csproj"
+    },
+    "ServiceType.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../../ServiceType/Models/ServiceType.Domain/ServiceType.Domain.csproj",
+      "msbuildProject": "../../../ServiceType/Models/ServiceType.Domain/ServiceType.Domain.csproj"
+    },
+    "ServiceType.Persistese.Database/1.0.0": {
+      "type": "project",
+      "path": "../../../ServiceType/Persistence/ServiceType.Persistese.Database/ServiceType.Persistese.Database.csproj",
+      "msbuildProject": "../../../ServiceType/Persistence/ServiceType.Persistese.Database/ServiceType.Persistese.Database.csproj"
+    },
+    "ServiceType.Service.Queries/1.0.0": {
+      "type": "project",
+      "path": "../../../ServiceType/Services/ServiceType.Service.Queries/ServiceType.Service.Queries.csproj",
+      "msbuildProject": "../../../ServiceType/Services/ServiceType.Service.Queries/ServiceType.Service.Queries.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5518,7 +5595,9 @@
       "PetType.Persistense.Database >= 1.0.0",
       "PetType.Service.EventHandlers >= 1.0.0",
       "PetType.Service.Queries >= 1.0.0",
+      "Service.Common.Collection >= 1.0.0",
       "Service.Common.Mapping >= 1.0.0",
+      "Service.Common.Queries >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -5529,11 +5608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Api\\PetType.Api\\PetType.Api.csproj",
+      "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Api\\PetType.Api\\PetType.Api.csproj",
       "projectName": "PetType.Api",
-      "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Api\\PetType.Api\\PetType.Api.csproj",
+      "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Api\\PetType.Api\\PetType.Api.csproj",
       "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Api\\PetType.Api\\obj\\",
+      "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Api\\PetType.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5555,17 +5634,23 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Collection\\Service.Common.Collection.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.EventHandlers\\PetType.Service.EventHandlers.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.EventHandlers\\PetType.Service.EventHandlers.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Queries\\Service.Common.Queries.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Persistence\\PetType.Persistense.Database\\PetType.Persistense.Database.csproj"
+            },
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.EventHandlers\\PetType.Service.EventHandlers.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.EventHandlers\\PetType.Service.EventHandlers.csproj"
+            },
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\PetType\\Services\\PetType.Service.Queries\\PetType.Service.Queries.csproj"
             }
           }
         }

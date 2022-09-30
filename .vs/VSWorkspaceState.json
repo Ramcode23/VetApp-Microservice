@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Services",
+    "\\Services\\Pet\\Services",
+    "\\Services\\Pet\\Services\\Pet.Service.EventHandlers",
+    "\\Services\\Pet\\Services\\Pet.Service.EventHandlers\\bin",
+    "\\Services\\Pet\\Services\\Pet.Service.EventHandlers\\Commands"
+  ],
+  "SelectedNode": "\\Services\\Pet",
+  "PreviewInSolutionExplorer": false
+}
