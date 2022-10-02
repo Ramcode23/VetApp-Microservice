@@ -26,6 +26,7 @@
     <ProjectReference Include="..\..\Persistence\Identity.Persistence.Database\Identity.Persistence.Database.csproj" />
     <ProjectReference Include="..\..\Models\Identity.Domain\Identity.Domain.csproj" />
     <ProjectReference Include="..\..\..\Common\Service.Common.Collection\Service.Common.Collection.csproj" />
+    <ProjectReference Include="..\..\..\Common\Service.Common.Mapping\Service.Common.Mapping.csproj" />
   </ItemGroup>
 
 </Project>

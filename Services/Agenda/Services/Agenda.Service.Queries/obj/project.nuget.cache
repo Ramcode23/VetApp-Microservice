@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pRrIXW+zp++0Z0YlQ7N6VqR98r7xeRUj9+BV2Yw5lBh2cz3sVCunCPXBCJrkj6X5U9pM+a2C+bzpld0f6/RCtw==",
+  "dgSpecHash": "VRPmH9q52RfUydxe3/jNTm7xzqsXcLG9Y33OfSvA4z5cMz2AGKzXLLx8bNbwTiKM1ygmlyyEzi7NNzNsGFa/vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj",
+  "projectFilePath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramc2\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ramc2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

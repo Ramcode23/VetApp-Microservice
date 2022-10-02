@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fiAYdIStcNUI80FWeMLqV1HVbYMqwdAG+JvsgrC20k4flQSVCfHKN56GziT+YrYwhCix7+P/WB2IHiirSAqtPg==",
+  "dgSpecHash": "xoc99r7jfzlRvI/Aum2NHkRnUKJj9YItljD47dXLpUzHhUQZ4QWPje0hw8Rqr61KFjYGndPT/WSd0zLb/EwMQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Pet\\Services\\Pet.Service.Queries\\Pet.Service.Queries.csproj",
+  "projectFilePath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Pet\\Services\\Pet.Service.Queries\\Pet.Service.Queries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramc2\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\ramc2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

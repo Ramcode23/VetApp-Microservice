@@ -1653,6 +1653,53 @@
           "bin/placeholder/Agenda.Service.Queries.dll": {}
         }
       },
+      "History.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Service.Common.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/History.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/History.Domain.dll": {}
+        }
+      },
+      "History.Persistense.Database/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "History.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
+        },
+        "compile": {
+          "bin/placeholder/History.Persistense.Database.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/History.Persistense.Database.dll": {}
+        }
+      },
+      "History.Service.Queries/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "History.Domain": "1.0.0",
+          "History.Persistense.Database": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Service.Common.Collection": "1.0.0",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/History.Service.Queries.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/History.Service.Queries.dll": {}
+        }
+      },
       "Pet.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1761,6 +1808,8 @@
           "Agenda.Domain": "1.0.0",
           "Agenda.Service.Queries": "1.0.0",
           "AutoMapper": "11.0.1",
+          "History.Domain": "1.0.0",
+          "History.Service.Queries": "1.0.0",
           "Pet.Domain": "1.0.0",
           "Pet.Service.Queries": "1.0.0",
           "PetType.Domain": "1.0.0",
@@ -5584,6 +5633,21 @@
       "path": "../../Services/Agenda.Service.Queries/Agenda.Service.Queries.csproj",
       "msbuildProject": "../../Services/Agenda.Service.Queries/Agenda.Service.Queries.csproj"
     },
+    "History.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../../History/Models/History.Domain/History.Domain.csproj",
+      "msbuildProject": "../../../History/Models/History.Domain/History.Domain.csproj"
+    },
+    "History.Persistense.Database/1.0.0": {
+      "type": "project",
+      "path": "../../../History/Persistence/History.Persistense.Database/History.Persistense.Database.csproj",
+      "msbuildProject": "../../../History/Persistence/History.Persistense.Database/History.Persistense.Database.csproj"
+    },
+    "History.Service.Queries/1.0.0": {
+      "type": "project",
+      "path": "../../../History/Services/History.Service.Queries/History.Service.Queries.csproj",
+      "msbuildProject": "../../../History/Services/History.Service.Queries/History.Service.Queries.csproj"
+    },
     "Pet.Domain/1.0.0": {
       "type": "project",
       "path": "../../../Pet/Models/Pet.Domain/Pet.Domain.csproj",
@@ -5677,11 +5741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Api\\Agenda.Api\\Agenda.Api.csproj",
+      "projectUniqueName": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Api\\Agenda.Api\\Agenda.Api.csproj",
       "projectName": "Agenda.Api",
-      "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Api\\Agenda.Api\\Agenda.Api.csproj",
+      "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Api\\Agenda.Api\\Agenda.Api.csproj",
       "packagesPath": "C:\\Users\\ramc2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Api\\Agenda.Api\\obj\\",
+      "outputPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Api\\Agenda.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5703,17 +5767,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Persistence\\Agenda.Persistense.Database\\Agenda.Persistense.Database.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Persistence\\Agenda.Persistense.Database\\Agenda.Persistense.Database.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Persistence\\Agenda.Persistense.Database\\Agenda.Persistense.Database.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Persistence\\Agenda.Persistense.Database\\Agenda.Persistense.Database.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.EventHandlers\\Agenda.Service.EventHandlers.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.EventHandlers\\Agenda.Service.EventHandlers.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.EventHandlers\\Agenda.Service.EventHandlers.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.EventHandlers\\Agenda.Service.EventHandlers.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.Queries\\Agenda.Service.Queries.csproj"
             },
-            "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-              "projectPath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+            "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+              "projectPath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Common\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
             }
           }
         }

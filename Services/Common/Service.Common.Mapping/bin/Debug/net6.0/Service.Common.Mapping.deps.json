@@ -11,6 +11,8 @@
           "Agenda.Domain": "1.0.0",
           "Agenda.Service.Queries": "1.0.0",
           "AutoMapper": "11.0.1",
+          "History.Domain": "1.0.0",
+          "History.Service.Queries": "1.0.0",
           "Pet.Domain": "1.0.0",
           "Pet.Service.Queries": "1.0.0",
           "PetType.Domain": "1.0.0",
@@ -520,6 +522,38 @@
           "Agenda.Service.Queries.dll": {}
         }
       },
+      "History.Domain/1.0.0": {
+        "dependencies": {
+          "Service.Common.Model": "1.0.0"
+        },
+        "runtime": {
+          "History.Domain.dll": {}
+        }
+      },
+      "History.Persistense.Database/1.0.0": {
+        "dependencies": {
+          "History.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
+        },
+        "runtime": {
+          "History.Persistense.Database.dll": {}
+        }
+      },
+      "History.Service.Queries/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "11.0.1",
+          "History.Domain": "1.0.0",
+          "History.Persistense.Database": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.9",
+          "Service.Common.Collection": "1.0.0",
+          "Service.Common.Paging": "1.0.0",
+          "Service.Common.Queries": "1.0.0"
+        },
+        "runtime": {
+          "History.Service.Queries.dll": {}
+        }
+      },
       "Pet.Domain/1.0.0": {
         "dependencies": {
           "Service.Common.Model": "1.0.0"
@@ -947,6 +981,21 @@
       "sha512": ""
     },
     "Agenda.Service.Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "History.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "History.Persistense.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "History.Service.Queries/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

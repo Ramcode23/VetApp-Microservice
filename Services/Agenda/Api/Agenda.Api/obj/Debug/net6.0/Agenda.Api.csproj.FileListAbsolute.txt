@@ -139,3 +139,9 @@ C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\ServiceType.Domain.pdb
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\ServiceType.Persistese.Database.pdb
 C:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\ServiceType.Service.Queries.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\History.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\History.Persistense.Database.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\History.Service.Queries.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\History.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\History.Persistense.Database.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\Agenda\Api\Agenda.Api\bin\Debug\net6.0\History.Service.Queries.pdb

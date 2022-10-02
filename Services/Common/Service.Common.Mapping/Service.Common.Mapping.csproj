@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="11.0.1" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\PetType\Services\PetType.Service.Queries\PetType.Service.Queries.csproj" />
     <ProjectReference Include="..\..\PetType\Models\PetType.Domain\PetType.Domain.csproj" />
     <ProjectReference Include="..\Service.Common.Collection\Service.Common.Collection.csproj" />
@@ -20,6 +16,12 @@
     <ProjectReference Include="..\..\Pet\Models\Pet.Domain\Pet.Domain.csproj" />
     <ProjectReference Include="..\..\Agenda\Services\Agenda.Service.Queries\Agenda.Service.Queries.csproj" />
     <ProjectReference Include="..\..\Agenda\Models\Agenda.Domain\Agenda.Domain.csproj" />
+    <ProjectReference Include="..\..\History\Services\History.Service.Queries\History.Service.Queries.csproj" />
+    <ProjectReference Include="..\..\History\Models\History.Domain\History.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
   </ItemGroup>
 
 </Project>

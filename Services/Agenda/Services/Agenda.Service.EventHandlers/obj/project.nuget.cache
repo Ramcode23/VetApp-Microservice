@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2qBoJVESnUbSJmb/ik2/yc4cC/VnN5vDmRzBquFnM9Ku+XQnjUGNXKjW25ZwwIPPa7zIViNgBmH0th7k1nHeHQ==",
+  "dgSpecHash": "/9GRiiYJWwTH1RdagpFVT1zDdfDeQMJlK7dH6mG24YPxRbJr9Kiqbmz6kv18iBNFW57yeiz7tOt5PpBjV0wWLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.EventHandlers\\Agenda.Service.EventHandlers.csproj",
+  "projectFilePath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Agenda\\Services\\Agenda.Service.EventHandlers\\Agenda.Service.EventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramc2\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\ramc2\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

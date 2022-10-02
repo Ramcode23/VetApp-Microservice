@@ -1,0 +1,15 @@
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\bin\Debug\net6.0\History.Domain.deps.json
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\bin\Debug\net6.0\History.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\bin\Debug\net6.0\History.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\bin\Debug\net6.0\Service.Common.Model.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\bin\Debug\net6.0\Service.Common.Model.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.csproj.AssemblyReference.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.AssemblyInfoInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.AssemblyInfo.cs
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.csproj.CoreCompileInputs.cache
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.csproj.CopyComplete
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\refint\History.Domain.dll
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\History.Domain.pdb
+c:\Users\ramc2\OneDrive\Documents\Projects\NetCore\VetpAppMicroservices\Services\History\Models\History.Domain\obj\Debug\net6.0\ref\History.Domain.dll

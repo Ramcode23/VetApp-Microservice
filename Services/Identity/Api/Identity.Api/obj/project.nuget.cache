@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "KGBw0GZlYZtbkjWQYXmJdSpiDzQT8LsXCObiy5JDaOCbfVm0rHOuNvKVhh0EnM6sY3wkVQbhf1TuO3LOwVfGdg==",
-  "success": true,
+  "dgSpecHash": "xUJHFb4GhS9jOMRIza6nKuW6WJGgnfV7bkhms+dFdImP2Q0s9dWGAOa9P/x6++XLtsGO6HV39MGW7HZ5KUw92A==",
+  "success": false,
   "projectFilePath": "c:\\Users\\ramc2\\OneDrive\\Documents\\Projects\\NetCore\\VetpAppMicroservices\\Services\\Identity\\Api\\Identity.Api\\Identity.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramc2\\.nuget\\packages\\aspnetcore.healthchecks.ui\\6.0.5\\aspnetcore.healthchecks.ui.6.0.5.nupkg.sha512",
@@ -145,5 +145,15 @@
     "C:\\Users\\ramc2\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\ramc2\\.nuget\\packages\\yamldotnet\\8.1.2\\yamldotnet.8.1.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: AutoMapper from 12.0.0 to 11.0.1. Reference the package directly from the project to select a different version. \r\n Identity.Api -> Service.Common.Mapping -> History.Service.Queries -> AutoMapper (>= 12.0.0) \r\n Identity.Api -> Service.Common.Mapping -> AutoMapper (>= 11.0.1)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

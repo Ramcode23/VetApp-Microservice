@@ -15,8 +15,7 @@ namespace Pet.Api.Controllers
     [Route("api/[controller]")]
     public class PetApiController : ControllerBase
     {
-
-                private readonly ILogger<PetApiController> _logger;
+       private readonly ILogger<PetApiController> _logger;
         private readonly IMediator _mediator;
         private readonly IPetQueryService _petQueryService;
         public PetApiController(
@@ -31,7 +30,6 @@ namespace Pet.Api.Controllers
 
 
         [HttpGet()]
-
         public async Task<DataCollection<PetDTo>> GetAll(int page = 1, int take = 10, string? ids = null)
         {
             IEnumerable<int> pets = null;
